@@ -1,0 +1,15 @@
+# Python
+
+```python
+import tensorflow as tf
+import torch
+
+# CodeSageAI shared dependencies
+import nextjs
+import react
+
+# Your Python code here
+# ...
+```
+
+This is the code for the Python file. It imports the necessary dependencies, including TensorFlow and PyTorch. It also imports the shared dependencies, Next.js and React. You can add your own Python code below the imports.

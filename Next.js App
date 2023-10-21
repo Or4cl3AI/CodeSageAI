@@ -1,0 +1,42 @@
+const nextJsAppCode = `
+import React from 'react';
+import './App.css';
+
+function App() {
+  return (
+    <div className="App">
+      <h1>CodeSageAI - Next.js App</h1>
+      <p>CodeSageAI is a cloud-based AI code generator that helps developers of all levels build software faster and more efficiently.</p>
+      <p>It can generate code in multiple programming languages, including Python, Java, Ruby, Solidity, and more.</p>
+      <p>CodeSageAI can also help with AI development, GitHub integration, and building and deploying new and existing repositories.</p>
+      <h2>Tech Stack:</h2>
+      <ul>
+        <li>Next.js</li>
+        <li>React</li>
+        <li>Python</li>
+        <li>TensorFlow</li>
+        <li>PyTorch</li>
+      </ul>
+      <h2>Features:</h2>
+      <ul>
+        <li>Generate code in multiple programming languages</li>
+        <li>Help with AI development</li>
+        <li>GitHub integration</li>
+        <li>Build and deploy new and existing repositories</li>
+        <li>Cloud-based service</li>
+        <li>Free trial</li>
+        <li>Easy to use</li>
+        <li>Powerful</li>
+        <li>Flexible</li>
+        <li>Comprehensive documentation</li>
+        <li>Detailed and descriptive readme.md file</li>
+      </ul>
+      <p>If you are looking for a way to build software faster and more efficiently, CodeSageAI is the perfect solution for you.</p>
+    </div>
+  );
+}
+
+export default App;
+`;
+
+module.exports = nextJsAppCode;
