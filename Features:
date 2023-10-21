@@ -1,0 +1,15 @@
+const features = [
+  "Generate code in multiple programming languages",
+  "Help with AI development",
+  "GitHub integration",
+  "Build and deploy new and existing repositories",
+  "Cloud-based service",
+  "Free trial",
+  "Easy to use",
+  "Powerful",
+  "Flexible",
+  "comprehensive documentation",
+  "detailed and descriptive readme.md file"
+];
+
+export default features;

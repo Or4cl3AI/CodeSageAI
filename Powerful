@@ -1,0 +1,17 @@
+const powerfulCode = `
+// This is the code for the Powerful feature
+
+function generateComplexCode() {
+  // CodeSageAI can generate complex code with ease
+  // Add your code here
+}
+
+function optimizePerformance() {
+  // CodeSageAI can optimize performance of your software
+  // Add your code here
+}
+
+export { generateComplexCode, optimizePerformance };
+`;
+
+powerfulCode

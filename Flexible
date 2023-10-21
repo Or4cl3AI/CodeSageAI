@@ -1,0 +1,7 @@
+```javascript
+function makeFlexible() {
+  // Code for the Flexible feature goes here
+}
+
+export default makeFlexible;
+```

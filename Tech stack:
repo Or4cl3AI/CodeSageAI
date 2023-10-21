@@ -1,0 +1,15 @@
+Tech stack:
+
+```javascript
+const techStack = [
+  "Next.js",
+  "React",
+  "Python",
+  "TensorFlow",
+  "PyTorch"
+];
+
+export default techStack;
+```
+
+Note: This code assumes that the Tech stack file is a JavaScript module.

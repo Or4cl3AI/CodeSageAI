@@ -1,0 +1,5 @@
+// File: easy-to-use.js
+
+const isEasyToUse = true;
+
+export default isEasyToUse;
